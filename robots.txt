@@ -7,4 +7,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://aleexxv.github.io/la_chouette_agence_ameliorer_2/sitemap.xml
+Sitemap: https://aleexxv.github.io/la_chouette_agence_ameliorer_2/sitemaps.xml
