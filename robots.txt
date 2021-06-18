@@ -1,10 +1,10 @@
 User-agent: Googlebot
-Disallow: 
+allow: 
 User-agent: googlebot-image
-Disallow: 
+allow: 
 User-agent: googlebot-mobile
-Disallow: 
+allow: 
 User-agent: *
 Disallow: 
-Disallow: /cgi-bin/
+allow: /cgi-bin/
 Sitemap: https://aleexxv.github.io/la-chouette-agence-ameliorer-2/sitemap.xml
