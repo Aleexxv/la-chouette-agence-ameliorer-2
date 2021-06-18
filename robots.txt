@@ -1,3 +1,3 @@
-User-agent: *
+User-agent: googlebot
 allow: 
 Sitemap: https://aleexxv.github.io/la-chouette-agence-ameliorer-2/sitemap.xml
