@@ -27,6 +27,12 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+@font-face {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
+    src: url(fonts/fontawesome-webfont.woff);
+    font-display: swap;
+}
+
 .bloc {
     clear: both;
     padding: 0 50px;
