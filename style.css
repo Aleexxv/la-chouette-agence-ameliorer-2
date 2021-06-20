@@ -29,8 +29,9 @@ a:hover {
 
 @font-face {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
-    src: url(fonts/fontawesome-webfont.woff);
-    font-display: swap;
+    src: url(fonts/et-line.woff);
+    src: url(fonts/fontawesome-webfont.woff2);
+    font-display: swap !important;
 }
 
 .bloc {
