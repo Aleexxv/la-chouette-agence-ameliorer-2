@@ -4,4 +4,4 @@ User-agent: googlebot-image
 allow: 
 User-agent: googlebot-mobile
 allow: 
-Sitemap: https://aleexxv.github.io/la-chouette-agence-ameliorer-2/sitemap.xml
+Sitemap: https://aleexxv.github.io/la-chouette-agence-ameliorer-2/sitemap.txt
