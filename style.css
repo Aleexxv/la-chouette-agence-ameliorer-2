@@ -995,3 +995,8 @@ h4 {
     }
 }
 
+@media (max-width: 767px) {
+    .bloc-mob-center-text {
+        text-align: center;
+    }
+}
